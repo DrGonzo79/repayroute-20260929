@@ -1,0 +1,14 @@
+{
+  "disclaimer": "Illustrative educational estimates only. Rules change; verify options with StudentAid.gov and your loan servicer before acting.",
+  "povertyGuideline": 15650,
+  "incomeProtectionMultiplier": 2.25,
+  "incomeShare": 0.10,
+  "scenarios": [
+    {"id": "maya", "name": "Maya", "agi": 54000, "familySize": 1, "balance": 48200, "rate": 5.5, "currentPayment": 185, "pslfYears": 4, "publicService": true},
+    {"id": "jordan", "name": "Jordan", "agi": 78000, "familySize": 2, "balance": 31500, "rate": 6.2, "currentPayment": 240, "pslfYears": 0, "publicService": false}
+  ],
+  "steps": {
+    "publicService": ["Download your loan breakdown from StudentAid.gov", "Confirm employer eligibility in the PSLF Help Tool", "Ask your servicer for written plan options and effective dates", "Save the notice and every confirmation number"],
+    "general": ["Download your loan breakdown from StudentAid.gov", "Check the payment simulator using the same income and family size", "Ask your servicer for written plan options and effective dates", "Save the notice and every confirmation number"]
+  }
+}
